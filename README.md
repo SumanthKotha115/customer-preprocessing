@@ -23,4 +23,4 @@
 - customer_preprocessing.ipynb
 
 ## Author
-Kotha Sumanth# customer-preprocessing
+Kotha Sumanth
